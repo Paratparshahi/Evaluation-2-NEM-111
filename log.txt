@@ -1,0 +1,39 @@
+GET /posts PostmanRuntime/7.29.2GET /posts PostmanRuntime/7.29.2GET /posts PostmanRuntime/7.29.2
+GET /posts PostmanRuntime/7.29.2
+
+GET /posts PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+GET /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/3 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+GET /posts PostmanRuntime/7.29.2
+
+GET /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
+PUT /posts/4 PostmanRuntime/7.29.2
+
