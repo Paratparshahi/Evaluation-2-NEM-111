@@ -752,9 +752,7 @@ Pratik_Private>  db.MongoQueries.find({$or:[{id:{$mod:[2,0]}},{age:{$mod:[2,0]}}
 Type "it" for more
 Pratik_Private> db.MongoQueries.updateMany({"gender":"Male"},{age:{$mod:[2,1]}},{$inc:{age:-1}})
 MongoInvalidArgumentError: Update document requires atomic operators
-Pratik_Private> db.MongoQueries.updateMany($and:[{"gender":"Male"},{age:{$mod:[2,1]}}],{$inc:{age:-1}})
-Uncaught:
-SyntaxError: Unexpected token, expected "," (1:31)
+gi
 
 >
     |                                ^
