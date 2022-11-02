@@ -756,7 +756,7 @@ Pratik_Private> db.MongoQueries.updateMany($and:[{"gender":"Male"},{age:{$mod:[2
 Uncaught:
 SyntaxError: Unexpected token, expected "," (1:31)
 
-> 1 | db.MongoQueries.updateMany($and:[{"gender":"Male"},{age:{$mod:[2,1]}}],{$inc:{age:-1}})
+>
     |                                ^
   2 |
 
@@ -838,7 +838,7 @@ Pratik_Private> db.MongoQueries.find({$and:[{"native":"United States"},{age:{$lt
     family_members: 3
   }
 ]
-Pratik_Private>
+
 
 
 
